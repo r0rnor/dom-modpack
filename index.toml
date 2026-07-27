@@ -30,6 +30,11 @@ hash = "f3a347bc3fd5591e883d1ec037a33ae6901c6c87d9dccc883f89e5f6a6043a1f"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "705856841852ca6823fb2b16c7e82c15ce251bf995ac6ac725ee5665d3b54dd1"
 metafile = true
@@ -97,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/create-mechanical-botany.pw.toml"
 hash = "002c2b23fb25f66afc5a9327dfb137b89a936b2924bb561f674d5378d6335e22"
+metafile = true
+
+[[files]]
+file = "mods/create-repair.pw.toml"
+hash = "7faffc1701600d8dc780a6d9345257efc809a64869cfbcb07e36f898f06d4c8b"
 metafile = true
 
 [[files]]
@@ -190,6 +200,11 @@ hash = "985697bebbb8874f9b2f12f4caca721e2cf28d42dc084e894f40f045d4c21fe5"
 metafile = true
 
 [[files]]
+file = "mods/guideme.pw.toml"
+hash = "7cbc557e23729a2ab1a0dfa8832359edb640a9c4b2f1919e7c43cd5c7ccfdf3c"
+metafile = true
+
+[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "22f7bd473bdc5add41d8afa0dc89dc442d77695a4675c3abf792c0981cc9ce9b"
 metafile = true
@@ -207,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/inline.pw.toml"
 hash = "b449e490600e89d6ce55b7e85f57073d799298f2b2501b2918745c4652b5b842"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "84c2b7aa6f75922aa146dffe5c0d351e27f52223c5df7990d3c5bb0e73ca57aa"
 metafile = true
 
 [[files]]
@@ -236,6 +256,11 @@ hash = "c29dcf940168208517b72f2d9965828b106a6b94cbea55d5001558c69a27b362"
 [[files]]
 file = "mods/lender.pw.toml"
 hash = "21663da4bbb01317a5d88f161c3d1e05c4ab321aa9107f6f7a493d3c7e405162"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "f3b6b7cd660a91a34a4e18010c9eaacaeb7ff306cadfee14431fa25a15b041ec"
 metafile = true
 
 [[files]]
@@ -286,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/neat.pw.toml"
 hash = "e0eeca17fe34033452cec59bc55d64e5ea3d23af91b7589accf08ea1aae1ca60"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "1802dcd780c6deb02fb0d9251474f221077c7c80b8d673585ab59a93f4fe2abb"
 metafile = true
 
 [[files]]
