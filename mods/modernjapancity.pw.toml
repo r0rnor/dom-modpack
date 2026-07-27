@@ -1,0 +1,13 @@
+name = "ModernJapanCity"
+filename = "ModernJapanCity-Forge-1.20.1-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/htWs7oGd/versions/Q91BfhuR/ModernJapanCity-Forge-1.20.1-1.0.8.jar"
+hash-format = "sha512"
+hash = "8ed0c1c1cae1d03dfb3311fc2a4b57c69cc1744ec490ae2296b8bc0c9e94336012b2343a9b2f37a341f75c29956c901d4af9d12f3f8a99ff61680aa78af135d0"
+
+[update]
+[update.modrinth]
+mod-id = "htWs7oGd"
+version = "Q91BfhuR"

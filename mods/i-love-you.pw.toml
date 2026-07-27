@@ -1,0 +1,13 @@
+name = "I Love You"
+filename = "iloveyou-0.1.2-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iJB9j99A/versions/8Gu0p29f/iloveyou-0.1.2-beta.jar"
+hash-format = "sha512"
+hash = "78db9a9b0f82a6b7eabfb2dd58421e1e6bebc5d42dbbb1a66bbe36f04bcf4d364249fe41ae4b921734f2553cda0c0a3e1fe252fe07cc1dd7958f4d9784ad32f8"
+
+[update]
+[update.modrinth]
+mod-id = "iJB9j99A"
+version = "8Gu0p29f"

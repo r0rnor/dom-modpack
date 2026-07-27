@@ -1,0 +1,13 @@
+name = "JAOPCAGT"
+filename = "JAOPCAGTCEu-1.20.1-2.1.2.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DFWm1IQL/versions/SBUCsOKx/JAOPCAGTCEu-1.20.1-2.1.2.10.jar"
+hash-format = "sha512"
+hash = "3858c8049162f82bee29c8e54c2145c9cecbae55388d68da590ab7961f924011177bbbd90dac9c003d18d0dd15ffda1ae287d2518ff45b2d40c5b31da30a3e67"
+
+[update]
+[update.modrinth]
+mod-id = "DFWm1IQL"
+version = "SBUCsOKx"
