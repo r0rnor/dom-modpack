@@ -1,0 +1,84 @@
+
+[features]
+	#Allows creating and updating family child NPCs. Existing children are not deleted when disabled.
+	enableChildren = true
+	#Allows couple mission progress and mission rewards.
+	enableMissions = true
+	#Allows progress for the cook together mission.
+	enableMissionCookTogether = true
+	#Allows progress for the sleep together mission.
+	enableMissionSleepTogether = true
+	#Allows progress for the travel together mission.
+	enableMissionTravelTogether = true
+	#Allows progress for the care child mission.
+	enableMissionCareChild = true
+	#Allows romantic gift items to give love rewards.
+	enableRomanticGifts = true
+	#Allows /iloveyou home teleport to the family home.
+	enableFamilyHomeTeleport = true
+	#Gives vanilla item rewards when a couple mission is completed.
+	enableMissionItemRewards = false
+	#Gives vanilla item rewards on engagement and marriage anniversaries.
+	enableAnniversaryItemRewards = false
+	#Plays particles and sound when a marriage ceremony is completed.
+	enableWeddingEffects = true
+	#Allows guests to teleport to the saved wedding invitation location.
+	enableWeddingInvitationTeleport = true
+	#Requires an official relationship for intimate actions like kiss, sitting together, family photo, and sleeping together.
+	requireOfficialRelationshipForIntimateActions = true
+
+[family]
+	#Seconds a couple must wait before creating another child with the cradle.
+	#Range: 0 ~ 86400
+	childCooldownSeconds = 1800
+	#Maximum children a couple can create. Use 0 for no limit.
+	#Range: 0 ~ 32
+	maxChildrenPerCouple = 2
+	#Minecraft days needed for a family child to become child stage. Care points can also unlock the stage.
+	#Range: 0 ~ 365
+	childStageChildDays = 3
+	#Minecraft days needed for a family child to become teen stage. Care points can also unlock the stage.
+	#Range: 0 ~ 365
+	childStageTeenDays = 7
+	#Care points needed for a family child to become child stage.
+	#Range: 0 ~ 10000
+	childStageChildCarePoints = 8
+	#Care points needed for a family child to become teen stage.
+	#Range: 0 ~ 10000
+	childStageTeenCarePoints = 20
+
+[rewards]
+	#Maximum love stored for a relationship.
+	#Range: 1 ~ 10000
+	maxLove = 100
+	#Cooldown in seconds for normal couple menu actions per player, target, and action. Does not affect proposal or marriage requests.
+	#Range: 0 ~ 86400
+	coupleActionCooldownSeconds = 10
+	#Number of engagement ring items consumed when an engagement is accepted. Use 0 to make engagement free.
+	#Range: 0 ~ 64
+	engagementRingCost = 1
+	#Number of wedding ring items consumed from each player when marriage is accepted. Use 0 to make marriage free.
+	#Range: 0 ~ 64
+	weddingRingCost = 1
+	#Minimum love required before sending an engagement request.
+	#Range: 0 ~ 10000
+	minEngagementLove = 20
+	#Minimum love required before sending a marriage request.
+	#Range: 0 ~ 10000
+	minMarriageLove = 60
+	#Minimum love required before creating a child with the cradle.
+	#Range: 0 ~ 10000
+	minChildLove = 80
+	#Percent multiplier for love gained from couple missions. 100 keeps default rewards, 0 disables mission love rewards.
+	#Range: 0 ~ 1000
+	missionLoveRewardPercent = 100
+	#Love gained when using a romantic gift.
+	#Range: 0 ~ 100
+	romanticGiftLoveReward = 8
+	#Love gained on each engagement anniversary.
+	#Range: 0 ~ 100
+	engagementAnniversaryLoveBonus = 5
+	#Love gained on each marriage anniversary.
+	#Range: 0 ~ 100
+	marriageAnniversaryLoveBonus = 10
+
