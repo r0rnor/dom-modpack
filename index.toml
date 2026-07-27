@@ -130,21 +130,6 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "3a728230bfbaf61c1fb3a102bcf320b63a0a132c149b0b827eaf1ce0a52e3fef"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "5778d6227c0522780c1736b62f7407e8bb733e7d41ceac8885a7a45224aa11a8"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "724ef5d1976e623bccf155159410708893b16fb1f35911ab7911ef6f047552ad"
-metafile = true
-
-[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "84e6ec23b1d9e88d4e1147d3d3c7c50b387f4b7ce06c52d3d8b6ceb6412907ee"
 metafile = true
@@ -242,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/jaopcagt.pw.toml"
 hash = "23a1ffc01830694128d0c2886e4617d1370398f4d52cfa0f13a7b27d5641dc1f"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "1ec4ec29a24a783f66fa71ff38f89a7119978c5f1d464b76fd77aa39ddb80d56"
 metafile = true
 
 [[files]]
