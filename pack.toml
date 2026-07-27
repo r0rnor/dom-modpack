@@ -1,0 +1,13 @@
+name = "Dom moD pack"
+author = "Rornor"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6ae5ac014061564607baf62b71f96d4ac0ef364c8d081acd53a6fc0c705c6257"
+
+[versions]
+forge = "47.4.22"
+minecraft = "1.20.1"
