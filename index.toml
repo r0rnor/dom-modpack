@@ -195,11 +195,6 @@ hash = "22f7bd473bdc5add41d8afa0dc89dc442d77695a4675c3abf792c0981cc9ce9b"
 metafile = true
 
 [[files]]
-file = "mods/hex.pw.toml"
-hash = "ecac72f5159284534bb2550cbebfe35edef88a8d97cb06064a48d9c951bfedfa"
-metafile = true
-
-[[files]]
 file = "mods/i-love-you.pw.toml"
 hash = "e38c66ee248bd9b38fab0e9d749fb2882a562d2b1dd6ed45c2cef0c2c63ae65f"
 metafile = true
@@ -235,8 +230,12 @@ hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
 
 [[files]]
-file = "mods/lendercataclysm.pw.toml"
-hash = "fbf967b492d575d65f066941652400dc32b998a16ac477a4b8f0efc2f681296a"
+file = "mods/lender.jar"
+hash = "c29dcf940168208517b72f2d9965828b106a6b94cbea55d5001558c69a27b362"
+
+[[files]]
+file = "mods/lender.pw.toml"
+hash = "21663da4bbb01317a5d88f161c3d1e05c4ab321aa9107f6f7a493d3c7e405162"
 metafile = true
 
 [[files]]

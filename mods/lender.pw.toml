@@ -1,0 +1,8 @@
+name = "lender"
+filename = "lender.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/r0rnor/dom-modpack/main/mods/lender.jar"
+hash-format = "sha256"
+hash = "C29DCF940168208517B72F2D9965828B106A6B94CBEA55D5001558C69A27B362"
