@@ -2772,6 +2772,11 @@ hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "8e04e8135c2114f8d4b34dd637381a975ca86cd5bd24f34ee44ea1efc863ed81"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
 metafile = true
@@ -2784,6 +2789,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
@@ -2822,6 +2832,16 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft-borrow-their-emote.pw.toml"
+hash = "5424bbcfcce9aee1e65595068417bd53cc4b506d3bedb9bc13771db81f0c9720"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "84e6ec23b1d9e88d4e1147d3d3c7c50b387f4b7ce06c52d3d8b6ceb6412907ee"
 metafile = true
@@ -2832,6 +2852,11 @@ hash = "b6bad0dc31bec26203bced18c111495357a1708404d21c4ce71ead00142aa5ad"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "fbad2488da791994cbb4a0541e2dd22c536dbe6ca8f7edfdd9af12120e283fd2"
+metafile = true
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "aa2a1abbccb92ccc4ba3a5a70d24edcd1e39a035f15fb9ba49c27f270a5e74e3"
 metafile = true
@@ -2839,6 +2864,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "d478b8c5149f9c37bc0072d0608e2fbc6ff38cd3d15420f99c8a7ed2a55c8f0e"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
@@ -2971,6 +3001,11 @@ hash = "d9d3fe576eb7a4e3a2c7c08ecade6a000ca15cc07a1fe9444d2a37cce8f27f2f"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "912dc66ae13a57f9f6559eb0c7c2b42f973f5768b46192528bec1d37df8398ef"
+metafile = true
+
+[[files]]
 file = "mods/modernjapancity.pw.toml"
 hash = "9b808afa6eb78a31b3dfb6c1977e4988155064d41dfb65c228db8099078392bb"
 metafile = true
@@ -2978,6 +3013,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "1f862d7186e52e9bc96c4ec19ab62d2af9fffdd5dc056176f4be7ae4015345c0"
+metafile = true
+
+[[files]]
+file = "mods/mossylib.pw.toml"
+hash = "da21b44346758b1a5620a9f94493e5664fee10eee36a1b9f956125db7e8990b4"
 metafile = true
 
 [[files]]
@@ -3001,6 +3041,11 @@ hash = "1802dcd780c6deb02fb0d9251474f221077c7c80b8d673585ab59a93f4fe2abb"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2242b76f7c4ee6d7f396a2d1380bee615d78408d00bff5cca38e4df777b18dc5"
 metafile = true
@@ -3008,6 +3053,11 @@ metafile = true
 [[files]]
 file = "mods/paucal.pw.toml"
 hash = "3a4c0fe9052e2c63f96a08066fb18ba08f501e06e8ffd6e2c9240e86eab21304"
+metafile = true
+
+[[files]]
+file = "mods/player-locator-plus-reforged.pw.toml"
+hash = "b5a98a6a24380f7cbe927a1777e88f5187837a24f94d09e2bc4a53a5f613945f"
 metafile = true
 
 [[files]]
@@ -3068,4 +3118,14 @@ metafile = true
 [[files]]
 file = "mods/tetra.pw.toml"
 hash = "885be3a02cf6dd5e4ddf49bd09f06c9ecc1cde58ab0bbcde3fe3be1e830b0602"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "20beda5f9b049a2352334a0f8dd8de122e7399f8a446d8f78aeecba85d99bbdc"
 metafile = true
