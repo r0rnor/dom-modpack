@@ -2932,6 +2932,11 @@ hash = "b449e490600e89d6ce55b7e85f57073d799298f2b2501b2918745c4652b5b842"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "e87e55d35c6a335f35329b1356c8c40589f6b955b4933614f03d6c8b747f1476"
+metafile = true
+
+[[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "84c2b7aa6f75922aa146dffe5c0d351e27f52223c5df7990d3c5bb0e73ca57aa"
 metafile = true
@@ -2962,8 +2967,18 @@ hash = "23a1ffc01830694128d0c2886e4617d1370398f4d52cfa0f13a7b27d5641dc1f"
 metafile = true
 
 [[files]]
+file = "mods/jei-worldgen.pw.toml"
+hash = "941538c80179b28330d985649a422d559aa7fc3daa531e1c5179ea91ff182af6"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "1ec4ec29a24a783f66fa71ff38f89a7119978c5f1d464b76fd77aa39ddb80d56"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "02977d28acd2089c39dbe5b65fd08e78094fb650b4afc810f757cb5cea1fbda8"
 metafile = true
 
 [[files]]
@@ -2978,6 +2993,11 @@ hash = "c29dcf940168208517b72f2d9965828b106a6b94cbea55d5001558c69a27b362"
 [[files]]
 file = "mods/lender.pw.toml"
 hash = "21663da4bbb01317a5d88f161c3d1e05c4ab321aa9107f6f7a493d3c7e405162"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
 metafile = true
 
 [[files]]
@@ -3073,6 +3093,16 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "76bfc1b2689919394cdf14b28cc97110f20a43e53aa69bbccd1b4a6aa850a046"
 metafile = true
 
 [[files]]

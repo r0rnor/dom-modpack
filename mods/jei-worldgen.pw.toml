@@ -1,0 +1,13 @@
+name = "JEI / REI / EMI WorldGen"
+filename = "jeiworldgen-forge-1.20.1-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YYrsrQ6q/versions/s38zpgYS/jeiworldgen-forge-1.20.1-1.4.0.jar"
+hash-format = "sha512"
+hash = "8ee998f996e0375a73d7ea3f351081c5c4ccac9611c90ce972ed0283d04547d262a19f5ed8c8d2f4e11104978b2776800748a0ca63c84c6a5b9b914cdbadf0a4"
+
+[update]
+[update.modrinth]
+mod-id = "YYrsrQ6q"
+version = "s38zpgYS"
