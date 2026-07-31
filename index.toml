@@ -2937,6 +2937,11 @@ hash = "e87e55d35c6a335f35329b1356c8c40589f6b955b4933614f03d6c8b747f1476"
 metafile = true
 
 [[files]]
+file = "mods/ironchests.pw.toml"
+hash = "9f7a8ad731e2454ad29de4bc85ed100eff8f21f0516fa9a8cf58939ad2ba16cf"
+metafile = true
+
+[[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "84c2b7aa6f75922aa146dffe5c0d351e27f52223c5df7990d3c5bb0e73ca57aa"
 metafile = true
