@@ -2989,27 +2989,12 @@ file = "mods/ftb-library.jar"
 hash = "41810281b65336265cae2c88412022d02f2f0a3f28c66a06173d86f98acf14a7"
 
 [[files]]
-file = "mods/ftb-library.pw.toml"
-hash = "2f7ac560662b0b62956a4201307502604224712c36b3b7e9c8fa536f3e45c167"
-metafile = true
-
-[[files]]
 file = "mods/ftb-teams.jar"
 hash = "b1cb4d82ea9f137a87e12a7aaf3329619294b56f7d70337dfd557a76e10b6e07"
 
 [[files]]
-file = "mods/ftb-teams.pw.toml"
-hash = "fd89dee89a1b260e6a552e58dfb301f404991fd1d8eb8fca0d4be30ff2814f0c"
-metafile = true
-
-[[files]]
 file = "mods/ftbquests.jar"
 hash = "9ea9d159a78a2724cfe0457b024680fdb52a2126eff9cfa5280a30578f647a68"
-
-[[files]]
-file = "mods/ftbquests.pw.toml"
-hash = "a05f85865d35e30c3e58148e5cfaf2f6ce1f85747aab481331ed27dd90640b2c"
-metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
@@ -3313,4 +3298,19 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "d08d445bae50b78091dfe85336456b768c8c29ee807dfea6c65497f1371443ff"
+metafile = true
+
+[[files]]
+file = "temp/ftb-library.pw.toml"
+hash = "2f7ac560662b0b62956a4201307502604224712c36b3b7e9c8fa536f3e45c167"
+metafile = true
+
+[[files]]
+file = "temp/ftb-teams.pw.toml"
+hash = "fd89dee89a1b260e6a552e58dfb301f404991fd1d8eb8fca0d4be30ff2814f0c"
+metafile = true
+
+[[files]]
+file = "temp/ftbquests.pw.toml"
+hash = "a05f85865d35e30c3e58148e5cfaf2f6ce1f85747aab481331ed27dd90640b2c"
 metafile = true
