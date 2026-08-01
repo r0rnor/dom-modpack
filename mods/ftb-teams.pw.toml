@@ -1,0 +1,8 @@
+name = "ftb-teams"
+filename = "ftb-teams.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/r0rnor/dom-modpack/main/mods/ftb-teams.jar"
+hash-format = "sha256"
+hash = "B1CB4D82EA9F137A87E12A7AAF3329619294B56F7D70337DFD557A76E10B6E07"

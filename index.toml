@@ -2985,6 +2985,24 @@ hash = "e3017a1b798d295fb73a1b63b1bf9be067adfcf7a79fdcbc919bb8ffddbdbcb9"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library.jar"
+hash = "41810281b65336265cae2c88412022d02f2f0a3f28c66a06173d86f98acf14a7"
+
+[[files]]
+file = "mods/ftb-library.pw.toml"
+hash = "c5172f6aaef4c55244b2a787a0bd71d4e032277979c99aac8ffddfb0e4d05f60"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams.jar"
+hash = "b1cb4d82ea9f137a87e12a7aaf3329619294b56f7d70337dfd557a76e10b6e07"
+
+[[files]]
+file = "mods/ftb-teams.pw.toml"
+hash = "7eab2ec228de8a4a196d963c15b5d39a2fbce016afb50f275e5c6fe1f6e2aca8"
+metafile = true
+
+[[files]]
 file = "mods/ftbquests.jar"
 hash = "9ea9d159a78a2724cfe0457b024680fdb52a2126eff9cfa5280a30578f647a68"
 
