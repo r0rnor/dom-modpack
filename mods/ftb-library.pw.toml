@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/r0rnor/dom-modpack/main/mods/ftb-library.jar"
 hash-format = "sha256"
-hash = "41810281B65336265CAE2C88412022D02F2F0A3F28C66A06173D86F98ACF14A7"
+hash = "41810281b65336265cae2c88412022d02f2f0a3f28c66a06173d86f98acf14a7"

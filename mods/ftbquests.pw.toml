@@ -1,8 +1,8 @@
-name = "frbquests"
+name = "ftbquests"
 filename = "ftbquests.jar"
 side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/r0rnor/dom-modpack/main/mods/ftbquests.jar"
 hash-format = "sha256"
-hash = "9EA9D159A78A2724CFE0457B024680FDB52A2126EFF9CFA5280A30578F647A68"
+hash = "9ea9d159a78a2724cfe0457b024680fdb52a2126eff9cfa5280a30578f647a68"

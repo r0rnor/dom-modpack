@@ -2990,7 +2990,7 @@ hash = "41810281b65336265cae2c88412022d02f2f0a3f28c66a06173d86f98acf14a7"
 
 [[files]]
 file = "mods/ftb-library.pw.toml"
-hash = "c5172f6aaef4c55244b2a787a0bd71d4e032277979c99aac8ffddfb0e4d05f60"
+hash = "2f7ac560662b0b62956a4201307502604224712c36b3b7e9c8fa536f3e45c167"
 metafile = true
 
 [[files]]
@@ -2999,7 +2999,7 @@ hash = "b1cb4d82ea9f137a87e12a7aaf3329619294b56f7d70337dfd557a76e10b6e07"
 
 [[files]]
 file = "mods/ftb-teams.pw.toml"
-hash = "7eab2ec228de8a4a196d963c15b5d39a2fbce016afb50f275e5c6fe1f6e2aca8"
+hash = "fd89dee89a1b260e6a552e58dfb301f404991fd1d8eb8fca0d4be30ff2814f0c"
 metafile = true
 
 [[files]]
@@ -3008,7 +3008,7 @@ hash = "9ea9d159a78a2724cfe0457b024680fdb52a2126eff9cfa5280a30578f647a68"
 
 [[files]]
 file = "mods/ftbquests.pw.toml"
-hash = "fffa0eb20f003dbc0a78ff800acb1d95e5bbc7002019b0e701db88884a8e16ba"
+hash = "a05f85865d35e30c3e58148e5cfaf2f6ce1f85747aab481331ed27dd90640b2c"
 metafile = true
 
 [[files]]
